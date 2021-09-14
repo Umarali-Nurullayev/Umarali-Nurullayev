@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umarali-Nurullayev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me nurullayevumarali1@gmail.com
 
